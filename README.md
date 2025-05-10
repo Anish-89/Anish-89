@@ -2,7 +2,7 @@
 
 🎓 Final Year BSc IT Student at VIVA College, Mumbai  
 💻 Full-Stack Developer | Python & Django Enthusiast  
-📊 Passionate about Data Visualization & Cybersecurity  
+🌱 Eager to build impactful tech solutions and grow as a full-stack developer
 
 ---
 
