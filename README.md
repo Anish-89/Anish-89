@@ -22,13 +22,13 @@
 ### 🗳️ [Election Management System](https://github.com/Anish-89/Election-Management-System)
 A secure online voting platform using Django & MySQL with OTP verification, admin control, and role-based access.
 
-### 🎮 [Tic-Tac-Toe Game](https://github.com/Anish-89/tic-tac-toe)
+### 🎮 [Tic-Tac-Toe Game](https://github.com/Anish-89/Internship/tree/main/Tic%20Tac%20Toe)
 Built with HTML, CSS, and JavaScript for dynamic user interaction.
 
-### ☁️ [Weather App](https://github.com/Anish-89/weather-app)
+### ☁️ [Weather App](https://github.com/Anish-89/Internship/tree/main/Weather_App)
 Fetches real-time weather using open APIs.
 
-### ⏱️ [Stopwatch Application](https://github.com/Anish-89/stopwatch)
+### ⏱️ [Stopwatch Application](https://github.com/Anish-89/Internship/tree/main/Stopwatch_App)
 Simple stopwatch with start, stop, and reset features.
 
 ---
