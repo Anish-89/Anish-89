@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Projects
-### 🗳️ [Election Management System](https://github.com/Anish-89/Election-Management-System)
+### 🗳️ [Election Management System](https://github.com/Anish-89/Election-Management-System/tree/main)
 A secure online voting platform using Django & MySQL with OTP verification, admin control, and role-based access.
 
 ### 🎮 [Tic-Tac-Toe Game](https://github.com/Anish-89/Internship/tree/main/Tic%20Tac%20Toe)
